@@ -1,0 +1,7 @@
+name = "nudibranchs"
+horizon = "2026"
+repo = "anselm/parametric-nudibranchs"
+code = "local"
+deploy = "exe:nudis"
+autodeploy = false
+notes = "VM stopped as of 2026-09-02"
